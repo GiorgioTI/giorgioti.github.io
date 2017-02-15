@@ -1,0 +1,44 @@
+.jumbotron{
+    background: #fff;
+}
+
+h4{
+    font-size: 15px;
+}
+
+strong{
+    font-size: 15px;
+}
+
+div .texto{
+    font-size: 14px;
+    color: #000;
+    text-decoration: solid;
+}
+
+sup{
+    font-size: 20px;
+}
+
+.ano{
+    background: #000000;
+    color: #fff;
+    padding: 4px;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+
+sup{
+    font-size: 13px;
+}
+
+progress{
+    position: relative;
+    top: 3px;
+    width:90%;
+}
+
+.alert {
+    background: #000;
+    color: #fff;
+}
